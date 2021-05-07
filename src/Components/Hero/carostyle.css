@@ -1,0 +1,18 @@
+.profit_name {
+  font-size: 50px;
+}
+
+.profit_desc {
+  margin-top: 15px;
+}
+
+@media screen and (max-width: 600px) {
+  .profit_desc {
+    font-size: 10px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+}

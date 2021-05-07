@@ -1,0 +1,26 @@
+.first_text {
+  font-size: 30px;
+  font-weight: bold;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+@media screen and (max-width: 760px) {
+  .first_text {
+    font-size: 15px;
+    /* background-color: red; */
+    /* width: 10px; */
+    text-align: center;
+  }
+}
+@media screen and (max-width: 760px) {
+  .counted {
+    width: 90%;
+    /* background-color: red; */
+    display: flex;
+    flex-wrap: wrap;
+  }
+}

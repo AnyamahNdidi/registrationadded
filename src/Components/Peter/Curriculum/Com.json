@@ -1,0 +1,17 @@
+[
+  {
+    "Title": "Teacher Community",
+    "CON": "Fostering collaboration and development",
+    "img": "/img/community.png"
+  },
+  {
+    "Title": "Trainings",
+    "CON": "Unlimited personal development materials.",
+    "img": "/img/opportunities.png"
+  },
+  {
+    "Title": "Opportunities",
+    "CON": "Jobs, events, workshops and many more.",
+    "img": "/img/training.png"
+  }
+]
